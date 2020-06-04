@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniErp.App", "APP\MiniErp.App.csproj", "{A65014DD-6C0B-4E27-A265-86DDAC9E5527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniErp.Model", "model\MiniErp.Model.csproj", "{0F3D08E3-D546-4112-9023-1050A1C616D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - MiniErpFront", "2 - MiniErpFront", "{F62CC0AE-FE4E-43DA-9434-A8A469E9B01E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - MiniErpAPI", "1 - MiniErpAPI", "{B0A43C00-01E2-4091-A703-5988A8C510E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Model", "3 - Model", "{010D69B7-20CD-4A03-9744-871CA164E410}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Service", "4 - Service", "{0D19E2E5-6EA5-4E12-B7B6-792F315348EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Infraestrutura", "5 - Infraestrutura", "{031B2300-D571-40F9-A183-EBDB12FCD4CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniErp.Service", "Service\MiniErp.Service\MiniErp.Service.csproj", "{6DDCAEC6-A677-4ABA-A9EB-A8CFCA9A3752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniErp.Api", "API\MiniErp.Api\MiniErp.Api.csproj", "{AE84A956-618F-4802-942A-56B287A6A983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65014DD-6C0B-4E27-A265-86DDAC9E5527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65014DD-6C0B-4E27-A265-86DDAC9E5527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65014DD-6C0B-4E27-A265-86DDAC9E5527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65014DD-6C0B-4E27-A265-86DDAC9E5527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3D08E3-D546-4112-9023-1050A1C616D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3D08E3-D546-4112-9023-1050A1C616D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3D08E3-D546-4112-9023-1050A1C616D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3D08E3-D546-4112-9023-1050A1C616D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DDCAEC6-A677-4ABA-A9EB-A8CFCA9A3752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDCAEC6-A677-4ABA-A9EB-A8CFCA9A3752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDCAEC6-A677-4ABA-A9EB-A8CFCA9A3752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDCAEC6-A677-4ABA-A9EB-A8CFCA9A3752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE84A956-618F-4802-942A-56B287A6A983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE84A956-618F-4802-942A-56B287A6A983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE84A956-618F-4802-942A-56B287A6A983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE84A956-618F-4802-942A-56B287A6A983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A65014DD-6C0B-4E27-A265-86DDAC9E5527} = {F62CC0AE-FE4E-43DA-9434-A8A469E9B01E}
+		{0F3D08E3-D546-4112-9023-1050A1C616D9} = {010D69B7-20CD-4A03-9744-871CA164E410}
+		{6DDCAEC6-A677-4ABA-A9EB-A8CFCA9A3752} = {0D19E2E5-6EA5-4E12-B7B6-792F315348EF}
+		{AE84A956-618F-4802-942A-56B287A6A983} = {B0A43C00-01E2-4091-A703-5988A8C510E9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBE47C32-0F05-4E74-89C3-ECD0623B6D32}
+	EndGlobalSection
+EndGlobal

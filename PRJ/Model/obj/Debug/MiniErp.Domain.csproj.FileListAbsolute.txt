@@ -1,0 +1,10 @@
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\model\bin\Debug\model.exe.config
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\model\bin\Debug\model.exe
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\model\bin\Debug\model.pdb
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\model\bin\Debug\view.exe
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\model\bin\Debug\view.pdb
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\model\obj\Debug\MiniErp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\model\obj\Debug\MiniErp.Domain.csproj.GenerateResource.Cache
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\model\obj\Debug\model.exe
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\model\obj\Debug\model.pdb
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\model\obj\Debug\MiniErp.Domain.Properties.Resources.resources

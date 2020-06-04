@@ -1,0 +1,10 @@
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\Infra\MiniErp.Repository\bin\Debug\MiniErp.Repository.dll.config
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\Infra\MiniErp.Repository\bin\Debug\MiniErp.Repository.dll
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\Infra\MiniErp.Repository\bin\Debug\MiniErp.Repository.pdb
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\Infra\MiniErp.Repository\bin\Debug\MiniErp.Domain.dll
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\Infra\MiniErp.Repository\bin\Debug\MiniErp.Service.dll
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\Infra\MiniErp.Repository\bin\Debug\MiniErp.Domain.pdb
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\Infra\MiniErp.Repository\bin\Debug\MiniErp.Service.pdb
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\Infra\MiniErp.Repository\obj\Debug\MiniErp.Repository.csprojResolveAssemblyReference.cache
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\Infra\MiniErp.Repository\obj\Debug\MiniErp.Repository.dll
+C:\Users\prog_\Documents\Visual Studio 2015\Projects\MiniERP\DEV\Infra\MiniErp.Repository\obj\Debug\MiniErp.Repository.pdb
